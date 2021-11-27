@@ -11,11 +11,11 @@ redirect_from:
 
 You can find the most complete version of my CV [here](https://github.com/YuliyaShapovalova/yuliyashapovalova.github.io/blob/master/files/CV_Shapovalova_November2021.pdf). 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+#Education
+#======
+#* B.S. in GitHub, GitHub University, 2012
+#* M.S. in Jekyll, GitHub University, 2014
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
