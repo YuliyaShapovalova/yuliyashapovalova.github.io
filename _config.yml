@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yuliya Shapovalova"
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "Yuliya Shapovalova"
+name                     : &name "Dr. Yuliya Shapovalova"
 description              : &description "personal description"
 url                      : https://yuliyashapovalova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
