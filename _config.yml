@@ -11,7 +11,7 @@ title                    : "Dr. Yuliya Shapovalova"
 title_separator          : "-"
 name                     : &name "Yuliya Shapovalova"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuliyashapovalova.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuliyaShapovalova/yuliyashapovalova.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuliya Shapovalova"
-  avatar           : "profile.png"
+  avatar           : "profile.PNG"
   bio              : "PostDoc in machine learning and data science"
   location         : "Radboud University, Nijmegen"
   employer         :
