@@ -17,9 +17,10 @@ I am giving the following lectures in this course: introduction to probability t
 I am supervising about three teams each year who participate in Kaggle competitions
 * Research seminar data science (Master course)
 
-Guest lectures
+Recent guest lectures
 -------------------------
-* 
+* Introduction to Gaussian processes (Maastricht University)
+* Introduction to Bayesian machine learning; neural networks; Gaussian processes (Higher School of Economics, Saint Petersburg)
 
 Maastricht University (2014-2017)
 -------------------------
