@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Statistical Machine Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Master course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Radboud University"
 date: 2014-01-01
-location: "City, Country"
+location: "Nijmegen, The Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am giving the following lectures in this course: introduction to probability theory and Bayesian inference; Gaussian processes; Markov Chain Monte Carlo; variational inference. 
 
 Heading 1
 ======
