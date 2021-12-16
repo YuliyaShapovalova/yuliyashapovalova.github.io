@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "y_shapovalova"
+  username               : #"y_shapovalova"
 facebook:
   username               :
   app_id                 :
