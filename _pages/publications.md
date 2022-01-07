@@ -9,13 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+* Shapovalova, Y., Heskes, T. & Dijkstra, T. ["Non-parametric synergy modeling of chemical compounds with Gaussian processes."](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04508-7#citeas) BMC Bioinformatics 23, 14 (2022).
 * Shapovalova, Yuliya. ["“Exact” and Approximate Methods for Bayesian Inference: Stochastic Volatility Case Study."](https://www.mdpi.com/1099-4300/23/4/466) Entropy 23.4 (2021): 466.
 * Shapovalova, Yuliya, Nalan Baştürk, and Michael Eichler. ["Multivariate Count Data Models for Time Series Forecasting."](https://www.mdpi.com/1099-4300/23/6/718) Entropy 23.6 (2021): 718.
 * Almeida, Rui Jorge, Greetje Adriaans, and Yuliya Shapovalova. ["Graphical Causal Models and Imputing Missing Data: A Preliminary Study."](https://link.springer.com/chapter/10.1007/978-3-030-50146-4_36) International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems. Springer, Cham, 2020.
-
-Papers under submission
--------------------------
-* Shapovalova, Yuliya, Tom Heskes, and Tjeerd MH Dijkstra. ["Non-parametric synergy modeling with Gaussian processes."](https://www.biorxiv.org/content/10.1101/2021.04.02.438180v1.abstract) bioRxiv (2021).
 
 Working papers
 -------------------------
