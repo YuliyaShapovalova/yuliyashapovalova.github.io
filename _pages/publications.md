@@ -16,7 +16,6 @@ redirect_from:
 
 Working papers
 -------------------------
-* Yuliya Shapovalova, Michael Eichler. "Measuring and quantifying uncertainty in volatility spillovers: a Bayesian approach".
 * Yuliya Shapovalova, Tom Heskes, Tjeerd Dijkstra. "Improving Gaussian processes drug-drug synergy modeling with monotonicity constraints".
 * Ruben Bakker, Yuliya Shapovalova, Tjeerd Dijkstra, Dick Roelofs, Tom Heskes, Kees van Gestel, Katja Hoedjes. "Biomarker development with additive Gaussian processes in high-resolution pesticide mixture exposures using the springtail Folsomia candida".
 * Lauren Forbes, Yuliya Shapovalova, Jenny Love, Hilary Ashe, Magnus Rattray. "Modelling the mRNA degradation dynamics of Drosophila melanogaster early development".
