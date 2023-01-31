@@ -17,11 +17,6 @@ I am giving the following lectures in this course: introduction to probability t
 I am supervising about three teams each year who participate in Kaggle competitions
 * Research seminar data science (Master course): coordinator of the course in 2023. In this course we teach students to review scientific papers and cover recent advances in machine learning and data science.  
 
-Recent guest lectures
--------------------------
-* Introduction to Gaussian processes (Maastricht University)
-* Introduction to Bayesian machine learning; neural networks; Gaussian processes (Higher School of Economics, Saint Petersburg)
-
 Maastricht University (2014-2017)
 -------------------------
 Problem based learning
