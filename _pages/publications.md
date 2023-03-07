@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-* Forbes Beadle, L., Love, J. C., Shapovalova, Y., Artemev, A., Rattray, M., & Ashe, H. L. (2023). ["Combined modelling of mRNA decay dynamics and single-molecule imaging in the Drosophila embryo uncovers a role for P-bodies in 5′ to 3′ degradation."](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001956) PLoS biology 21.1 (2023).
+*Shapovalova, Y., Eichler, M.. (2023). ["Measuring and Quantifying Uncertainty in Volatility Spillovers: A Bayesian Approach."]([https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001956](https://www.tandfonline.com/doi/full/10.1080/26941899.2023.2176379)) Data Science in Science, 2:1.
+* Forbes Beadle, L., Love, J. C., Shapovalova, Y., Artemev, A., Rattray, M., & Ashe, H. L. (2023). ["Combined modelling of mRNA decay dynamics and single-molecule imaging in the Drosophila embryo uncovers a role for P-bodies in 5′ to 3′ degradation."](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001956) PLOS Biology 21.1 (2023).
 * Shapovalova, Y., Heskes, T. & Dijkstra, T. ["Non-parametric synergy modeling of chemical compounds with Gaussian processes."](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04508-7#citeas) BMC Bioinformatics 23, 14 (2022).
 * Shapovalova, Yuliya. ["“Exact” and Approximate Methods for Bayesian Inference: Stochastic Volatility Case Study."](https://www.mdpi.com/1099-4300/23/4/466) Entropy 23.4 (2021): 466.
 * Shapovalova, Yuliya, Nalan Baştürk, and Michael Eichler. ["Multivariate Count Data Models for Time Series Forecasting."](https://www.mdpi.com/1099-4300/23/6/718) Entropy 23.6 (2021): 718.
