@@ -19,6 +19,7 @@ redirect_from:
 
 Working papers
 -------------------------
+* Charlotte Cambier van Nooten, Tom van de Poll, Sonja Füllhase, Jacco Heres, Tom Heskes, Yuliya Shapovalova. "Graph Isomorphic Networks for Assessing Reliability of the Medium-Voltage Grid".(https://arxiv.org/abs/2310.01181)
 * Yuliya Shapovalova, Tom Heskes, Tjeerd Dijkstra. "Improving Gaussian processes drug-drug synergy modeling with monotonicity constraints".
 * Ruben Bakker, Yuliya Shapovalova, Tjeerd Dijkstra, Dick Roelofs, Tom Heskes, Kees van Gestel, Katja Hoedjes. "Biomarker development with additive Gaussian processes in high-resolution pesticide mixture exposures using the springtail Folsomia candida".
 
