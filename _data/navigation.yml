@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Companies"
-    url: /companies/
+  - title: "For companies"
+    url: /for_companies/
     
   #- title: "Student projects"
   #  url: /student_projects/   
