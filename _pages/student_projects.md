@@ -17,8 +17,10 @@ Some of the previous master thesis projects
 -------------------------
 * 2024 Benedetta Felici "State-space Wishart Processes for Multivariate Count Data Time Series Analysis"
 * 2024 Susanne van de Logt "Delving Deep: Predictive modelling of the soil thermal resistivity for cable temperature modelling" (Joint with Alliander)
+* 2024 Ylja van Son "Overview of Variational Sequential Monte Carlo for multivariate stochastic volatility models"
 * 2023 Tijn Berns "Improving Scenario-Based Assessment Of Automated Vehicles Using Event Data" (Joint with TNO)
 * 2023 Frederike Elsmann "Precipitation Nowcasting Exploring the Impact of Echo Top Heights in Generative Models"
+* 2023 Nathan Golden "Edge Classification using Graph Neural Networks for the N-1 Assessment of Energy Grid Reliability" (Joint with Alliander)
 * 2022 Charlotte Cambier van Nooten "Precipitation nowcasting for high-intensity events using deep generative models" (Joint with KNMI)
 * 2022 Jaap Dijkstra "Graph Neural Networks for Grid Expansion" (Joint with Alliander)
 * 2021 Luke Reijnen "Scaling Graph Convolutional Neural Networks" (Joint with ING)
