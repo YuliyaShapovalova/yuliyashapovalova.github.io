@@ -21,8 +21,8 @@ main:
   - title: "For companies"
     url: /for_companies/
     
-  #- title: "Student projects"
-  #  url: /student_projects/   
+  - title: "Student projects"
+    url: /student_projects/   
     
   #- title: "Guide"
   #  url: /markdown/
