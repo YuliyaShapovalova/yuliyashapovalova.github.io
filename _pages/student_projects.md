@@ -13,7 +13,7 @@ If you are currently a student at Radboud University, I am regularly updating av
 
 Interested in working on Gaussian process, time series, graph neural networks, applications in climate and weather? Then get in touch, there's often room to form an additional project related to these topics. 
 
-Previous master thesis projects 
+Some of the previous master thesis projects 
 -------------------------
 * 2024 Benedetta Felici "State-space Wishart Processes for Multivariate Count Data Time Series Analysis"
 * 2024 Susanne van de Logt "Delving Deep: Predictive modelling of the soil thermal resistivity for cable temperature modelling" (Joint with Alliander)
