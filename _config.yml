@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuliya Shapovalova"
-  avatar           : "profile_new_sq.png"
+  avatar           : "profile_new_sq_small.png"
   bio              : "Assistant professor in probabilistic machine learning for time series"
   location         : "Radboud University, Nijmegen"
   employer         :
