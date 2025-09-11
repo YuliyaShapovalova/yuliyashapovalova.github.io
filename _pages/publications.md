@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Likely not up to date, see my [google schoolar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dhdiExEAAAAJ).
+
 * Cambier van Nooten, C., Schreurs, K., Wijnands, J., Leijnse, H., Schmeits, M., Whan, K. & Shapovalova, Y.  (2023). ["Improving precipitation nowcasting for high-intensity events using deep generative models with balanced loss and temperature data: a case study in the Netherlands."](https://doi.org/10.1175/AIES-D-23-0017.1) Artificial Intelligence for the Earth Systems. [Code](https://github.com/charlottecvn/precipitationnowcasting-generativemodels-highevents)
 * Shapovalova, Y., Eichler, M. (2023). ["Measuring and Quantifying Uncertainty in Volatility Spillovers: A Bayesian Approach."](https://www.tandfonline.com/doi/full/10.1080/26941899.2023.2176379) Data Science in Science, 2:1. [Code](https://github.com/YuliyaShapovalova/MSVMspillovers)
 * Forbes Beadle, L., Love, J. C., Shapovalova, Y., Artemev, A., Rattray, M., & Ashe, H. L. (2023). ["Combined modelling of mRNA decay dynamics and single-molecule imaging in the Drosophila embryo uncovers a role for P-bodies in 5′ to 3′ degradation."](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001956) PLOS Biology 21.1 (2023). [Code](https://github.com/ManchesterBioinference/GP_Transcription_Dynamics)
