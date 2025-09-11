@@ -8,8 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+Industry Courses
+-------------------------
+We develop machine learning and AI industry courses. See an example [here](https://www.ru.nl/en/education/education-for-professionals/overview/three-day-course-charge).
 
-Radboud University (2019-2023)
+Summer School at Radboud University
+-------------------------
+We started the first edition of the Summer School "Machine Learning for Time Series" in 2025 with the colleague Roel Bouman. 
+
+
+Radboud University (2019-2025)
 -------------------------
 * Statistical machine learning (Master course)
 I am giving the following lectures in this course: introduction to probability theory and Bayesian inference; Gaussian processes; Markov Chain Monte Carlo; variational inference. I am also supervising some of the practical sessions.
