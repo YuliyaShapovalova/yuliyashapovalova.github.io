@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-For pulications see:
+For pulications see my [google schoolar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dhdiExEAAAAJ).
 
-Likely not up to date, see my [google schoolar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dhdiExEAAAAJ).
-
-Papers with code:
+Some papers with code:
 
 * Cambier van Nooten, C., Schreurs, K., Wijnands, J., Leijnse, H., Schmeits, M., Whan, K. & Shapovalova, Y.  (2023). ["Improving precipitation nowcasting for high-intensity events using deep generative models with balanced loss and temperature data: a case study in the Netherlands."](https://doi.org/10.1175/AIES-D-23-0017.1) Artificial Intelligence for the Earth Systems. [Code](https://github.com/charlottecvn/precipitationnowcasting-generativemodels-highevents)
 * Shapovalova, Y., Eichler, M. (2023). ["Measuring and Quantifying Uncertainty in Volatility Spillovers: A Bayesian Approach."](https://www.tandfonline.com/doi/full/10.1080/26941899.2023.2176379) Data Science in Science, 2:1. [Code](https://github.com/YuliyaShapovalova/MSVMspillovers)
