@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+For pulications see:
+
 Likely not up to date, see my [google schoolar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dhdiExEAAAAJ).
+
+Papers with code:
 
 * Cambier van Nooten, C., Schreurs, K., Wijnands, J., Leijnse, H., Schmeits, M., Whan, K. & Shapovalova, Y.  (2023). ["Improving precipitation nowcasting for high-intensity events using deep generative models with balanced loss and temperature data: a case study in the Netherlands."](https://doi.org/10.1175/AIES-D-23-0017.1) Artificial Intelligence for the Earth Systems. [Code](https://github.com/charlottecvn/precipitationnowcasting-generativemodels-highevents)
 * Shapovalova, Y., Eichler, M. (2023). ["Measuring and Quantifying Uncertainty in Volatility Spillovers: A Bayesian Approach."](https://www.tandfonline.com/doi/full/10.1080/26941899.2023.2176379) Data Science in Science, 2:1. [Code](https://github.com/YuliyaShapovalova/MSVMspillovers)
@@ -19,9 +23,4 @@ Likely not up to date, see my [google schoolar profile](https://scholar.google.c
 * Shapovalova, Y., Baştürk N., and Eichler, M. (2021) ["Multivariate Count Data Models for Time Series Forecasting."](https://www.mdpi.com/1099-4300/23/6/718) Entropy 23.6: 718. [Code](https://github.com/YuliyaShapovalova/multivariate-counts-time-series)
 * Almeida, R.J., Adriaans G., and Shapovalova Y. (2020) ["Graphical Causal Models and Imputing Missing Data: A Preliminary Study."](https://link.springer.com/chapter/10.1007/978-3-030-50146-4_36) International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems. Springer, Cham.
 
-Working papers
--------------------------
-* Charlotte Cambier van Nooten, Tom van de Poll, Sonja Füllhase, Jacco Heres, Tom Heskes, Yuliya Shapovalova. ["Graph Isomorphic Networks for Assessing Reliability of the Medium-Voltage Grid".](https://arxiv.org/abs/2310.01181)
-* Yuliya Shapovalova, Tom Heskes, Tjeerd Dijkstra. "Improving Gaussian processes drug-drug synergy modeling with monotonicity constraints".
-* Ruben Bakker, Yuliya Shapovalova, Tjeerd Dijkstra, Dick Roelofs, Tom Heskes, Kees van Gestel, Katja Hoedjes. "Biomarker development with additive Gaussian processes in high-resolution pesticide mixture exposures using the springtail Folsomia candida".
 
