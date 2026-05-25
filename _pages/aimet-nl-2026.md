@@ -67,7 +67,7 @@ The tentative schedule for the workshop is below.
 
 Please confirm your attendance by registering no later than **Monday 15 June 2026**.
 
-**Registration link:** *Coming soon - the MS Forms registration link will be added here once available.*
+**Registration link:** [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf4be7lH4gBrNSPc8XHIT8pZrWqkreiMIU2oTTTstxjYlnifw/viewform)
 
 **Registration fee:** €20
 
