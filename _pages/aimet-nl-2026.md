@@ -17,7 +17,7 @@ redirect_from:
 
 **Date:** 19 June 2026  
 **Location:** Radboud University, Nijmegen, The Netherlands  
-**Time:** 10:00 – 16:00, followed by drinks and networking
+**Time:** 10:00 - 16:00, followed by drinks and networking
 
 ---
 
@@ -33,10 +33,10 @@ The program consists of invited talks, discussion sessions, posters, and network
 
 ## Confirmed Speakers
 
-* **Tom Heskes** (Radboud University) — Explainability and causal Shapley values
-* **Ana Lucic** (University of Amsterdam) — Mechanistic interpretability in deep learning
-* **Yuliya Shapovalova** (Radboud University) — Forecasting extreme precipitation events, multimodal learning, and transformer architectures for Earth system applications
-* **Speakers from TenneT and Alliander** — Operational use of weather forecasts and challenges in energy applications
+* **Tom Heskes** (Radboud University) - Explainability and causal Shapley values
+* **Ana Lucic** (University of Amsterdam) - Mechanistic interpretability in deep learning
+* **Yuliya Shapovalova** (Radboud University) - Forecasting extreme precipitation events, multimodal learning, and transformer architectures for Earth system applications
+* **Speakers from TenneT and Alliander** - Operational use of weather forecasts and challenges in energy applications
 
 ## Preliminary Program
 
@@ -44,13 +44,13 @@ The program consists of invited talks, discussion sessions, posters, and network
 |-------|---------|
 | 09:00 | Welcome & Coffee |
 | 09:40 | Opening |
-| 09:45 | Yuliya Shapovalova (RU) — Loss Functions, Gradient Starvation, and Multimodal Learning for Precipitation Nowcasting |
-| 10:20 | Alliander & TenneT — Operational Challenges of Using Weather Forecasts |
+| 09:45 | Yuliya Shapovalova (RU) - Loss Functions, Gradient Starvation, and Multimodal Learning for Precipitation Nowcasting |
+| 10:20 | Alliander & TenneT - Operational Challenges of Using Weather Forecasts |
 | 10:55 | Coffee break |
-| 11:20 | Panel discussion — Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
+| 11:20 | Panel discussion - Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
 | 12:00 | Lunch |
-| 13:00 | Tom Heskes (RU) — Explainability |
-| 14:05 | Ana Lucic (UvA) — Mechanistic Interpretability |
+| 13:00 | Tom Heskes (RU) - Explainability |
+| 14:05 | Ana Lucic (UvA) - Mechanistic Interpretability |
 | 14:40 | Coffee break |
 | 15:10 | Community discussion, posters, demos |
 | 16:00 | Drinks and snacks, posters, demos |
@@ -61,7 +61,7 @@ The program consists of invited talks, discussion sessions, posters, and network
 
 Please confirm your attendance by registering no later than **Monday 15 June 2026**.
 
-**Registration link:** *Coming soon — the MS Forms registration link will be added here once available.*
+**Registration link:** *Coming soon - the MS Forms registration link will be added here once available.*
 
 **Registration fee:** €20
 
@@ -76,4 +76,4 @@ After registration, you will receive a separate email from Radboud University wi
 
 ## Contact
 
-For questions, please contact: [shapovalova.yuliya@gmail.com](mailto:shapovalova.yuliya@gmail.com)
+For questions, please contact: [yuliya.shapovalova@ru.nl](mailto:yuliya.shapovalova@ru.nl)
