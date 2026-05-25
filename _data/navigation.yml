@@ -22,7 +22,10 @@ main:
     url: /for_companies/
     
   - title: "Student projects"
-    url: /student_projects/   
+    url: /student_projects/
+
+  - title: "AIMET-NL 2026"
+    url: /aimet-nl-2026/
     
   #- title: "Guide"
   #  url: /markdown/
