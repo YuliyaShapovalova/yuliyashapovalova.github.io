@@ -42,6 +42,7 @@ The tentative schedule for the workshop is below.
 * **Yuliya Shapovalova** (Radboud University)
 * **Wouter Tromp** and **Simon Veldkamp** (TenneT)
 * **Ment Reeze** and **Jessica Loke** (Alliander)
+* Representative of **Beyond Weather** (TBA)
 
 ## Preliminary Program
 
