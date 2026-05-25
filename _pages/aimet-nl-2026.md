@@ -37,11 +37,11 @@ The tentative schedule for the workshop is below.
 
 ## Confirmed Speakers
 
-* **Tom Heskes** (Radboud University) - Explainability and causal Shapley values
-* **Ana Lucic** (University of Amsterdam) - Mechanistic interpretability for scientific machine learning
-* **Yuliya Shapovalova** (Radboud University) - Multimodal learning and gradient starvation
-* **Wouter Tromp** and **Simon Veldkamp** (TenneT) - Operational use of weather forecasts and challenges in energy applications
-* **Ment Reeze** and **Jessica Loke** (Alliander) - Operational use of weather forecasts and challenges in energy applications
+* **Tom Heskes** (Radboud University)
+* **Ana Lucic** (University of Amsterdam)
+* **Yuliya Shapovalova** (Radboud University)
+* **Wouter Tromp** and **Simon Veldkamp** (TenneT)
+* **Ment Reeze** and **Jessica Loke** (Alliander)
 
 ## Preliminary Program
 
