@@ -38,8 +38,8 @@ The tentative schedule for the workshop is below.
 ## Confirmed Speakers
 
 * **Tom Heskes** (Radboud University) - Explainability and causal Shapley values
-* **Ana Lucic** (University of Amsterdam) - Mechanistic interpretability in deep learning
-* **Yuliya Shapovalova** (Radboud University) - Forecasting extreme precipitation events, multimodal learning, and transformer architectures for Earth system applications
+* **Ana Lucic** (University of Amsterdam) - Mechanistic interpretability for scientific machine learning
+* **Yuliya Shapovalova** (Radboud University) - Multimodal learning and gradient starvation
 * **Wouter Tromp** and **Simon Veldkamp** (TenneT) - Operational use of weather forecasts and challenges in energy applications
 * **Ment Reeze** and **Jessica Loke** (Alliander) - Operational use of weather forecasts and challenges in energy applications
 
@@ -49,13 +49,13 @@ The tentative schedule for the workshop is below.
 |-------|---------|
 | 09:00 | Welcome & Coffee |
 | 09:40 | Opening |
-| 09:45 | Yuliya Shapovalova (RU) - Loss Functions, Gradient Starvation, and Multimodal Learning for Precipitation Nowcasting |
-| 10:20 | Alliander & TenneT - Operational Challenges of Using Weather Forecasts |
+| 09:45 | Yuliya Shapovalova (RU) - Multimodal Learning and Gradient Starvation |
+| 10:20 | Wouter Tromp & Simon Veldkamp (TenneT), Ment Reeze & Jessica Loke (Alliander) - Operational Challenges of Using Weather Forecasts |
 | 10:55 | Coffee break |
 | 11:20 | Panel discussion - Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
 | 12:00 | Lunch |
-| 13:00 | Tom Heskes (RU) - Explainability |
-| 14:05 | Ana Lucic (UvA) - Mechanistic Interpretability |
+| 13:00 | Tom Heskes (RU) - Explainability and Causal Shapley Values |
+| 14:05 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
 | 14:40 | Coffee break |
 | 15:10 | Community discussion, posters, demos |
 | 16:00 | Drinks and snacks, posters, demos |
