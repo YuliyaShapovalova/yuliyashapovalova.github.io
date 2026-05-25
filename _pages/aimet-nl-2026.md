@@ -40,7 +40,8 @@ The tentative schedule for the workshop is below.
 * **Tom Heskes** (Radboud University) - Explainability and causal Shapley values
 * **Ana Lucic** (University of Amsterdam) - Mechanistic interpretability in deep learning
 * **Yuliya Shapovalova** (Radboud University) - Forecasting extreme precipitation events, multimodal learning, and transformer architectures for Earth system applications
-* **Speakers from TenneT and Alliander** - Operational use of weather forecasts and challenges in energy applications
+* **Wouter Tromp** and **Simon Veldkamp** (TenneT) - Operational use of weather forecasts and challenges in energy applications
+* **Ment Reeze** and **Jessica Loke** (Alliander) - Operational use of weather forecasts and challenges in energy applications
 
 ## Preliminary Program
 
