@@ -23,13 +23,17 @@ redirect_from:
 
 ## About the Workshop
 
-The AI-MET Workshop on Trustworthy AI for Weather and Climate brings together researchers and practitioners in the Netherlands working at the intersection of artificial intelligence, machine learning, weather forecasting, climate science, and operational applications.
+On 19 June 2026 a 1-day workshop will be organized at Radboud University, Nijmegen, by AIMET-NL, the Dutch research network on AI for Weather & Climate. The topic of this meeting is Explainability, Multimodal Learning, Mechanistic Interpretability, and Operational Forecasting Applications.
 
-This edition focuses on modern AI approaches for weather and climate modeling and forecasting, including explainability, mechanistic interpretability, multimodal learning, transformer architectures, and prediction of extreme events. The workshop also includes perspectives from the energy sector on how weather forecasts are used operationally and what challenges remain for reliable deployment in practice.
+The use of AI methods for weather and climate applications is developing very rapidly. Only a few years ago, fully data-based weather forecasts made with AI/ML methods seemed like a remote possibility. Nowadays weather forecasting systems based on AI have reached a level of predictive skill that is competitive in many respects with state-of-the-art physics-based weather forecasting models. More broadly, researchers are quickly tapping into the potential of AI for advancing modelling and analysis of weather and climate.
 
-The event aims to stimulate interaction between meteorologists, climate scientists, AI/ML researchers, and industry partners, and to foster collaborations within the Dutch AI for weather and climate community.
+Reflecting these developments, the AIMET-NL network was initiated in 2025 by a group of researchers based in the Netherlands. This edition at Radboud University will bring together the research community around explainability, mechanistic interpretability, multimodal learning, and transformer architectures for Earth system applications, with a complementary focus on the operational use of weather forecasts in the energy sector. The workshop aims to stimulate interaction between meteorologists, climate scientists, AI/ML researchers, and industry partners, and to foster collaborations within the Dutch AI for weather and climate community.
 
-The program consists of invited talks, discussion sessions, posters, and networking opportunities.
+We kindly ask you to confirm your attendance by registering no later than Monday 15 June 2026. The registration fee for the workshop is 20 euros. We also note that the number of participants is limited due to room capacity constraints, so early registration is recommended.
+
+The tentative schedule for the workshop is below.
+
+**Organizers:** Yuliya Shapovalova & Charlotte Cambier van Nooten
 
 ## Confirmed Speakers
 
