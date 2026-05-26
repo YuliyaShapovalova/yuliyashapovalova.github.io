@@ -63,7 +63,7 @@ The tentative schedule for the workshop is below.
 | 14:05 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
 | 14:40 | Coffee break |
 | 15:10 | Community discussion, posters, demos |
-| 16:00 | Drinks and snacks, posters, demos |
+| 16:00 | Drinks, networking |
 
 *The program will be updated as additional details are confirmed.*
 
