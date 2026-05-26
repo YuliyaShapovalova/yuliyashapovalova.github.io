@@ -19,6 +19,10 @@ redirect_from:
 **Location:** Radboud University, Nijmegen, The Netherlands  
 **Time:** 10:00 - 16:00, followed by drinks and networking
 
+### [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf4be7lH4gBrNSPc8XHIT8pZrWqkreiMIU2oTTTstxjYlnifw/viewform)
+
+*Registration deadline: Monday 15 June 2026 - Fee: €20 - See [details](#registration) below.*
+
 ---
 
 ## About the Workshop
