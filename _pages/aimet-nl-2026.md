@@ -21,7 +21,7 @@ redirect_from:
 
 ### [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf4be7lH4gBrNSPc8XHIT8pZrWqkreiMIU2oTTTstxjYlnifw/viewform)
 
-*Registration deadline: Monday 15 June 2026 - Fee: €20 - See [details](#registration) below.*
+*Registration deadline: Monday 15 June 2026 - Fee: €20 (free seats available for SIKS members) - See [details](#registration) below.*
 
 ---
 
@@ -36,6 +36,8 @@ Reflecting these developments, the AIMET-NL network was initiated in 2025 by a g
 We kindly ask you to confirm your attendance by registering no later than Monday 15 June 2026. The registration fee for the workshop is 20 euros. We also note that the number of participants is limited due to room capacity constraints, so early registration is recommended.
 
 The tentative schedule for the workshop is below.
+
+This edition is organised in cooperation with **SIKS**, the Dutch Research School for Information and Knowledge Systems.
 
 **Organizers:** Yuliya Shapovalova & Charlotte Cambier van Nooten
 
@@ -74,6 +76,8 @@ Please confirm your attendance by registering no later than **Monday 15 June 202
 **Registration link:** [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf4be7lH4gBrNSPc8XHIT8pZrWqkreiMIU2oTTTstxjYlnifw/viewform)
 
 **Registration fee:** €20
+
+Due to the cooperation between SIKS and the local organisation of AIMET-NL, there will be a fixed number of free seats available for SIKS members (PhD students and staff). Applications will be honoured on a first-come-first-serve basis.
 
 The number of participants is limited due to room capacity, so early registration is recommended. Participants interested in presenting a poster or demo are encouraged to indicate this during registration.
 
