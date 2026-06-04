@@ -17,7 +17,7 @@ redirect_from:
 
 **Date:** 19 June 2026  
 **Location:** Radboud University, Nijmegen, The Netherlands  
-**Time:** 10:00 - 16:00, followed by drinks and networking
+**Time:** 09:00 - 16:00, followed by drinks and networking
 
 ### [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf4be7lH4gBrNSPc8XHIT8pZrWqkreiMIU2oTTTstxjYlnifw/viewform)
 
@@ -43,7 +43,7 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 
 ## Confirmed Speakers
 
-* **Tom Heskes** (Radboud University)
+* **Tom Claassen** (Radboud University)
 * **Ana Lucic** (University of Amsterdam)
 * **Yuliya Shapovalova** (Radboud University)
 * **Wouter Tromp** and **Simon Veldkamp** (TenneT)
@@ -61,7 +61,7 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 | 10:55 | Coffee break |
 | 11:20 | Panel discussion - Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
 | 12:00 | Lunch |
-| 13:00 | Tom Heskes (RU) - Explainability and Causal Shapley Values |
+| 13:00 | Tom Claassen (RU) - Explainability, causality and causal Shapley values |
 | 14:05 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
 | 14:40 | Coffee break |
 | 15:10 | Community discussion, posters, demos |
