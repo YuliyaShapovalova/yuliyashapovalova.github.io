@@ -16,7 +16,7 @@ redirect_from:
 **AIMET-NL Meeting / Workshop**
 
 **Date:** 19 June 2026  
-**Location:** Radboud University, Nijmegen, The Netherlands  
+**Location:** Radboud University, [Huygensgebouw](https://www.ru.nl/over-ons/de-campus/gebouwen-en-ruimtes/huygensgebouw), Room HG00.304, Nijmegen, The Netherlands  
 **Time:** 09:00 - 16:00, followed by drinks and networking
 
 ### [Register here](https://docs.google.com/forms/d/e/1FAIpQLSf4be7lH4gBrNSPc8XHIT8pZrWqkreiMIU2oTTTstxjYlnifw/viewform)
