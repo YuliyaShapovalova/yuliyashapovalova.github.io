@@ -56,15 +56,16 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 |-------|---------|
 | 09:00 | Welcome & Coffee |
 | 09:40 | Opening |
-| 09:45 | Yuliya Shapovalova (RU) - Multimodal Learning and Gradient Starvation |
-| 10:20 | Wouter Tromp & Simon Veldkamp (TenneT), Ment Reeze & Jessica Loke (Alliander) - Operational Challenges of Using Weather Forecasts |
-| 10:55 | Coffee break |
-| 11:20 | Panel discussion - Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
+| 09:55 | Yuliya Shapovalova (RU) - Multimodal Learning and Gradient Starvation |
+| 10:25 | Wouter Tromp & Simon Veldkamp (TenneT) - Operational Challenges of Using Weather Forecasts |
+| 10:45 | Ment Reeze & Jessica Loke (Alliander) - Operational Challenges of Using Weather Forecasts |
+| 11:05 | Coffee break |
+| 11:30 | Panel discussion - Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
 | 12:00 | Lunch |
 | 13:00 | Tom Claassen (RU) - Explainability, causality and causal Shapley values |
-| 14:05 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
-| 14:40 | Coffee break |
-| 15:10 | Community discussion, posters, demos |
+| 13:35 | Coffee break |
+| 14:00 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
+| 14:35 | Community discussion, posters, demos |
 | 16:00 | Drinks, networking |
 
 *The program will be updated as additional details are confirmed.*
