@@ -56,7 +56,7 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 |-------|---------|
 | 09:00 | Welcome & Coffee |
 | 09:40 | Opening |
-| 09:55 | Yuliya Shapovalova (RU) - Multimodal Learning and Gradient Starvation |
+| 09:55 | Yuliya Shapovalova (RU) - Multimodal Learning and Gradient Starvation in Nowcasting |
 | 10:25 | Wouter Tromp & Simon Veldkamp (TenneT) - Operational Challenges of Using Weather Forecasts |
 | 10:45 | Ment Reeze & Jessica Loke (Alliander) - Operational Challenges of Using Weather Forecasts |
 | 11:05 | Coffee break |
