@@ -48,7 +48,8 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 * **Yuliya Shapovalova** (Radboud University)
 * **Wouter Tromp** and **Simon Veldkamp** (TenneT)
 * **Ment Reeze** and **Jessica Loke** (Alliander)
-* Representative of **Beyond Weather** (TBA)
+* **Faegheh Hasibi** (Radboud University) *(to be confirmed)*
+* Representative of **Beyond Weather** (TBA) *(to be confirmed)*
 
 ## Preliminary Program
 
@@ -63,9 +64,11 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 | 11:30 | Panel discussion - Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
 | 12:00 | Lunch |
 | 13:00 | Tom Claassen (RU) - Explainability, causality and causal Shapley values |
-| 13:35 | Coffee break |
-| 14:00 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
-| 14:35 | Community discussion, posters, demos |
+| 13:35 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
+| 14:10 | Coffee break |
+| 14:30 | Faegheh Hasibi (RU) - Uncertainty Quantification in Foundation Models *(to be confirmed)* |
+| 15:00 | Beyond Weather - TBA *(to be confirmed)* |
+| 15:30 | Community discussion, posters, demos |
 | 16:00 | Drinks, networking |
 
 *The program will be updated as additional details are confirmed.*
