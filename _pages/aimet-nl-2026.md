@@ -49,7 +49,6 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 * **Wouter Tromp** and **Simon Veldkamp** (TenneT)
 * **Ment Reeze** and **Jessica Loke** (Alliander)
 * **Faegheh Hasibi** (Radboud University)
-* Representative of **Beyond Weather** (TBA) *(to be confirmed)*
 
 ## Preliminary Program
 
@@ -61,14 +60,13 @@ This edition is organised in cooperation with **SIKS**, the Dutch Research Schoo
 | 10:25 | Wouter Tromp & Simon Veldkamp (TenneT) - Operational Challenges of Using Weather Forecasts |
 | 10:45 | Ment Reeze & Jessica Loke (Alliander) - Using weather for short-term energy forecasting at Alliander |
 | 11:05 | Coffee break |
-| 11:30 | Panel discussion - Operational challenges of producing and using weather forecasts (KNMI, Alliander, TenneT) |
+| 11:30 | Panel discussion - Operational challenges of producing and using weather forecasts (Joost van Gijn (KNMI), Wouter Tromp & Simon Veldkamp (TenneT), Ment Reeze & Jessica Loke (Alliander)) |
 | 12:00 | Lunch |
 | 13:00 | Tom Claassen (RU) - Explainability, causality and causal Shapley values |
 | 13:35 | Ana Lucic (UvA) - Mechanistic Interpretability for Scientific Machine Learning |
 | 14:10 | Coffee break |
 | 14:30 | Faegheh Hasibi (RU) - Uncertainty Quantification in Foundation Models |
-| 15:00 | Beyond Weather - TBA *(to be confirmed)* |
-| 15:30 | Community discussion, posters, demos |
+| 15:00 | Community discussion, posters, demos |
 | 16:00 | Drinks, networking |
 
 *The program will be updated as additional details are confirmed.*
