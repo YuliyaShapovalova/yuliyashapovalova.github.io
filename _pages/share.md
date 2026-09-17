@@ -12,17 +12,13 @@ redirect_from:
 # SHARE: Synthetic Harmonized Access to Renewable Energy data
 
 **Funder:** NWO, Knowledge and Innovation Covenant (KIC) call *Data sharing for the energy transition*  
-**Duration:** January 2027 to December 2030 (48 months)  
-**Coordinator:** Radboud University, Institute for Computing and Information Sciences (iCIS)  
-**Project lead:** Dr. Yuliya Shapovalova
+**Duration:** February 2027 to January 2031 (48 months)
 
 SHARE develops methods to generate synthetic energy data that is realistic, privacy-safe, and consistent with the physics of the electricity network, together with the privacy guarantees and governance frameworks needed for organisations to trust and use it.
 
 ## We are hiring
 
-The project starts in January 2027 and I am recruiting one **PhD candidate** at Radboud University (iCIS) on physics-informed generative models for synthetic energy data. The PhD will develop deep generative models (VAEs, GANs, diffusion models, Gaussian processes) for energy time series that respect the physics of the network, working with real operational data from Alliander. Supervision by Dr. Yuliya Shapovalova and Prof. Tom Heskes. Expected start: January 2027.
-
-The vacancy will be advertised shortly. Informal enquiries are very welcome; please get in touch by email. Master's students at Radboud interested in a thesis project on benchmarking generative models for energy time series can also contact me.
+The project starts in February 2027 and I am recruiting one **PhD candidate** at Radboud University (iCIS) on physics-informed generative models for synthetic energy data. The PhD will develop deep generative models (VAEs, GANs, diffusion models, Gaussian processes) for energy time series that respect the physics of the network, working with real operational data from Alliander. Supervision by Dr. Yuliya Shapovalova and Prof. Tom Heskes. Expected start: February 2027.
 
 ## The problem
 
@@ -32,13 +28,12 @@ Synthetic data offers a way out: artificial datasets that preserve the statistic
 
 ## Our approach
 
-SHARE combines machine learning, privacy engineering, energy law, and energy planning in five work packages:
+SHARE combines machine learning, privacy engineering, energy law, and energy planning in the following work packages:
 
 - **Use cases and requirements.** Together with DSOs, municipalities, and energy communities, we define which data needs to be shared, between whom, and for what decisions, and translate this into quantifiable requirements for synthetic datasets. Led by Dr. Henk-Jan Kooij with Prof. Saskia Lavrijssen (Radboud University).
 - **Synthetic data generation.** We develop and compare deep generative models (variational autoencoders, GANs, diffusion models, Gaussian processes) for load, generation, and voltage time series, and embed physical constraints such as power-flow consistency, operational bounds, and network topology directly into the generation process. Led by Dr. Yuliya Shapovalova with Prof. Tom Heskes (Radboud University).
 - **Adaptive privacy and legal compliance.** We develop adaptive differential privacy mechanisms that allocate privacy budget according to the sensitivity of each data component, evaluate them against realistic privacy attacks, and build a verification framework aligned with the GDPR and the EU AI Act. Led by Dr. Mina Alishahi with Prof. Harald Vranken (Open Universiteit).
 - **Adoption and dissemination.** Training, documentation, and a community of practice so that the methods are actually used by the Dutch energy sector.
-- **Project management.** Coordination across the consortium.
 
 The main outputs are an open-source synthetic data toolbox, a privacy-utility benchmarking and auditing toolkit, openly published benchmark datasets, and governance guidelines for privacy-compliant data sharing in the energy sector.
 
@@ -52,7 +47,3 @@ The main outputs are an open-source synthetic data toolbox, a privacy-utility be
 - [VSL](https://www.vsl.nl/en/): national metrology institute, measurement quality and validation
 - [Bronscode](https://bronscode.nl/): software engineering for the open-source toolbox
 - [NPRES](https://www.regionale-energiestrategie.nl/) / VIVET: alignment with the national roadmap for energy data sharing
-
-## Contact
-
-Dr. Yuliya Shapovalova, Institute for Computing and Information Sciences, Radboud University, Nijmegen.
