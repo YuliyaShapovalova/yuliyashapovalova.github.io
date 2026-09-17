@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuliya Shapovalova"
   avatar           : "new_profile_sq.png"
-  bio              : "Assistant Professor in Probabilistic Machine Learning<br><small>Time series · Uncertainty quantification · Spatiotemporal learning</small>"
+  bio              : "Assistant Professor in Probabilistic Machine Learning<br>Time series · Uncertainty quantification · Spatiotemporal learning"
   location         : "Radboud University, Nijmegen"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=dhdiExEAAAAJ"
-  email            :
+  email            : "yuliya.shapovalova@ru.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"yuliyashapovalova"
+  github           : "YuliyaShapovalova"
   google_plus      :
   keybase          :
   instagram        :

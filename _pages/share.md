@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "SHARE"
+title: "SHARE: Synthetic Harmonized Access to Renewable Energy data"
 permalink: /share/
 author_profile: true
 redirect_from:
@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-# SHARE: Synthetic Harmonized Access to Renewable Energy data
-
 **Funder:** NWO, Knowledge and Innovation Covenant (KIC) call *Data sharing for the energy transition*  
 **Duration:** February 2027 to January 2031 (48 months)
 
 SHARE develops methods to generate synthetic energy data that is realistic, privacy-safe, and consistent with the physics of the electricity network, together with the privacy guarantees and governance frameworks needed for organisations to trust and use it.
 
 ## We are hiring
+
+**PhD position opening: physics-informed generative models for synthetic energy data. Start February 2027, Radboud University.**
+{: .notice--info}
 
 The project starts in February 2027 and I am recruiting one **PhD candidate** at Radboud University (iCIS) on physics-informed generative models for synthetic energy data. The PhD will develop deep generative models (VAEs, GANs, diffusion models, Gaussian processes) for energy time series that respect the physics of the network, working with real operational data from Alliander. Supervision by Dr. Yuliya Shapovalova and Prof. Tom Heskes. Expected start: February 2027.
 

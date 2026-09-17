@@ -26,7 +26,10 @@ Research interests
 Current projects
 -------------------------
 
-* [SHARE](/share/): Synthetic Harmonized Access to Renewable Energy data. An NWO project on physics-informed, privacy-preserving synthetic data for the Dutch energy transition, with Alliander, Open Universiteit, Gemeente Nijmegen, Zenmo, and VSL. I coordinate the project and lead the work package on synthetic data generation. **A PhD position is opening for a start in February 2027.**
+**Hiring:** a PhD position on physics-informed generative models for synthetic energy data opens in the [SHARE](/share/) project, starting February 2027.
+{: .notice--info}
+
+* [SHARE](/share/): Synthetic Harmonized Access to Renewable Energy data. An NWO project on physics-informed, privacy-preserving synthetic data for the Dutch energy transition, with Alliander, Open Universiteit, Gemeente Nijmegen, Zenmo, and VSL. I coordinate the project and lead the work package on synthetic data generation.
 * [Radboud–Alliander collaboration](https://www.ru.nl/en/about-us/organisation/partners-and-networks/alliander): I lead the AI and data science theme in the strategic partnership between Radboud University and grid operator Alliander.
 * Precipitation nowcasting with deep generative models, in collaboration with KNMI.
 
