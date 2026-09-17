@@ -14,10 +14,10 @@ We develop machine learning and AI industry courses. See an example [here](https
 
 Summer School at Radboud University
 -------------------------
-We started the first edition of the Summer School "Machine Learning for Time Series" in 2025 with the colleague Roel Bouman. 
+We started the first edition of the Summer School "Machine Learning for Time Series" in 2025 together with Roel Bouman. 
 
 
-Radboud University (2019-2025)
+Radboud University (2019-present)
 -------------------------
 * Statistical machine learning (Master course)
 I am giving the following lectures in this course: introduction to probability theory and Bayesian inference; Gaussian processes; Markov Chain Monte Carlo; variational inference. I am also supervising some of the practical sessions.

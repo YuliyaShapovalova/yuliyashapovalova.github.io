@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-If you are currently a student at Radboud University, I am regularly updating available Master thesis and internship projects (including those in collaboration with industry) on our [group page]([https://www.ru.nl/datascience/education/masters-specialisation/](https://das.cs.ru.nl/Projects)).
+Open projects
+-------------------------
 
-Interested in working on Gaussian process, time series, graph neural networks, applications in climate and weather? Then get in touch, there's often room to form an additional project related to these topics. 
+* **PhD position, SHARE project.** Physics-informed generative models for synthetic energy data, with real operational data from Alliander. Start February 2027. See the [SHARE](/share/) page.
+* **Master thesis: benchmarking deep generative models for energy time series.** Systematic comparison of VAEs, GANs, diffusion models, and Gaussian processes on open smart-meter datasets, with a focus on physical plausibility. Connected to the SHARE project. Get in touch if you are interested.
+* Other Master thesis and internship projects, including those in collaboration with industry, are listed on our [group page](https://das.cs.ru.nl/Projects).
 
-Some of the previous master thesis projects 
+Interested in Gaussian processes, time series, graph neural networks, or applications in energy, weather and climate? Get in touch, there is often room to define an additional project on these topics.
+
+Previous master thesis projects
 -------------------------
 * 2024 Benedetta Felici "State-space Wishart Processes for Multivariate Count Data Time Series Analysis"
 * 2024 Susanne van de Logt "Delving Deep: Predictive modelling of the soil thermal resistivity for cable temperature modelling" (Joint with Alliander)

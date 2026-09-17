@@ -9,7 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-For pulications see my [google schoolar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dhdiExEAAAAJ).
+My research is in probabilistic machine learning, organised around two methodological themes and the application areas where I put them to work.
+
+Probabilistic machine learning and uncertainty
+-------------------------
+Gaussian processes, Bayesian inference (MCMC, variational and sequential Monte Carlo methods), probabilistic deep learning, and uncertainty quantification. A recurring question is how to get calibrated, decision-relevant uncertainty out of models of complex systems.
+
+Time series and spatiotemporal learning
+-------------------------
+Forecasting and nowcasting, state-space models, temporal deep learning, and graph-based and spatiotemporal models for data such as radar and satellite image sequences, sensor networks, and power grids.
+
+Applications
+-------------------------
+* **Energy systems and the energy transition.** Grid reliability, load and congestion forecasting, and synthetic energy data, largely with Alliander. See the [SHARE](/share/) project.
+* **Weather and climate.** Precipitation nowcasting and forecasting with deep generative models, with KNMI.
+* **Other domains** where decisions are made under uncertainty, including finance, biology, and mobility.
+
+Publications
+-------------------------
+
+For the full list see my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&user=dhdiExEAAAAJ).
 
 Some papers with code:
 
@@ -20,5 +39,3 @@ Some papers with code:
 * Shapovalova, Y. (2021) ["“Exact” and Approximate Methods for Bayesian Inference: Stochastic Volatility Case Study."](https://www.mdpi.com/1099-4300/23/4/466) Entropy 23.4: 466.
 * Shapovalova, Y., Baştürk N., and Eichler, M. (2021) ["Multivariate Count Data Models for Time Series Forecasting."](https://www.mdpi.com/1099-4300/23/6/718) Entropy 23.6: 718. [Code](https://github.com/YuliyaShapovalova/multivariate-counts-time-series)
 * Almeida, R.J., Adriaans G., and Shapovalova Y. (2020) ["Graphical Causal Models and Imputing Missing Data: A Preliminary Study."](https://link.springer.com/chapter/10.1007/978-3-030-50146-4_36) International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems. Springer, Cham.
-
-

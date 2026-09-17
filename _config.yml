@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuliya Shapovalova"
   avatar           : "new_profile_sq.png"
-  bio              : "Assistant professor in probabilistic machine learning for time series"
+  bio              : "Assistant Professor in Probabilistic Machine Learning<br><small>Time series · Uncertainty quantification · Spatiotemporal learning</small>"
   location         : "Radboud University, Nijmegen"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
