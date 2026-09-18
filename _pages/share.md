@@ -16,10 +16,10 @@ SHARE develops methods to generate synthetic energy data that is realistic, priv
 
 ## We are hiring
 
-**PhD position opening: physics-informed generative models for synthetic energy data. Start February 2027, Radboud University.**
+**[PhD position: Physics-Informed Generative AI for Synthetic Energy Data](https://www.ru.nl/en/working-at/job-opportunities/phd-position-physics-informed-generative-ai-for-synthetic-energy-data)** at Radboud University. Start February 2027. Application deadline 25 October 2026.
 {: .notice--info}
 
-The project starts in February 2027 and I am recruiting one **PhD candidate** at Radboud University (iCIS) on physics-informed generative models for synthetic energy data. The PhD will develop deep generative models (VAEs, GANs, diffusion models, Gaussian processes) for energy time series that respect the physics of the network, working with real operational data from Alliander. Supervision by Dr. Yuliya Shapovalova and Prof. Tom Heskes. Expected start: February 2027.
+The project starts in February 2027 and I am recruiting one **PhD candidate** at Radboud University (iCIS) on physics-informed generative models for synthetic energy data. The PhD will develop deep generative models (VAEs, GANs, diffusion models, Gaussian processes) for energy time series that respect the physics of the network, working with real operational data from Alliander. Supervision by Dr. Yuliya Shapovalova and Prof. Tom Heskes. Expected start: February 2027. Full details and the application form are on the [Radboud University vacancy page](https://www.ru.nl/en/working-at/job-opportunities/phd-position-physics-informed-generative-ai-for-synthetic-energy-data).
 
 ## The problem
 

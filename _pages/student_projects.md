@@ -12,7 +12,7 @@ redirect_from:
 Open projects
 -------------------------
 
-* **PhD position, SHARE project.** Physics-informed generative models for synthetic energy data, with real operational data from Alliander. Start February 2027. See the [SHARE](/share/) page.
+* **[PhD position, SHARE project](https://www.ru.nl/en/working-at/job-opportunities/phd-position-physics-informed-generative-ai-for-synthetic-energy-data).** Physics-informed generative models for synthetic energy data, with real operational data from Alliander. Start February 2027, application deadline 25 October 2026. See also the [SHARE](/share/) page.
 * **Master thesis: benchmarking deep generative models for energy time series.** Systematic comparison of VAEs, GANs, diffusion models, and Gaussian processes on open smart-meter datasets, with a focus on physical plausibility. Connected to the SHARE project. Get in touch if you are interested.
 * Other Master thesis and internship projects, including those in collaboration with industry, are listed on our [group page](https://das.cs.ru.nl/Projects).
 

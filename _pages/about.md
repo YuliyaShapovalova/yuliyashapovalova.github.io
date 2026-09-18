@@ -26,7 +26,7 @@ Research interests
 Current projects
 -------------------------
 
-**Hiring:** a PhD position on physics-informed generative models for synthetic energy data opens in the [SHARE](/share/) project, starting February 2027.
+**Hiring:** [PhD position on physics-informed generative AI for synthetic energy data](https://www.ru.nl/en/working-at/job-opportunities/phd-position-physics-informed-generative-ai-for-synthetic-energy-data) in the [SHARE](/share/) project. Start February 2027. Application deadline 25 October 2026.
 {: .notice--info}
 
 * [SHARE](/share/): Synthetic Harmonized Access to Renewable Energy data. An NWO project on physics-informed, privacy-preserving synthetic data for the Dutch energy transition, with Alliander, Open Universiteit, Gemeente Nijmegen, Zenmo, and VSL. I coordinate the project and lead the work package on synthetic data generation.
